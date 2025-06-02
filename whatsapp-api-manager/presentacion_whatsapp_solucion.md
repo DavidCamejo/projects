@@ -4,8 +4,6 @@
 
 Nuestra solución es un puente que conecta su tienda online (basada en WordPress) directamente con WhatsApp, permitiendo comunicaciones automáticas y personalizadas con sus clientes a través del canal de mensajería más popular del mundo.
 
-![Imagen conceptual de la solución](https://via.placeholder.com/800x400?text=Solucion+WhatsApp+Integrada)
-
 ## ¿Qué problemas resuelve?
 
 ### 🔹 El reto de la comunicación
